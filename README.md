@@ -1,8 +1,8 @@
-#Pizza Sales Dashboard README
+#Pizza Sales Dashboard
 
 #Overview
 
-This README provides documentation for the Pizza Sales Dashboard, created using Microsoft Excel. The dashboard visualizes key performance metrics for pizza sales, offering insights into revenue trends, order patterns, and best-selling products.
+The Pizza Sales Dashboard is created using Microsoft Excel. The dashboard visualizes key performance metrics for pizza sales, offering insights into revenue trends, order patterns, and best-selling products.
 
 #Key Features
 
