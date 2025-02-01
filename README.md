@@ -1,10 +1,10 @@
-#Pizza Sales Dashboard
+# Pizza Sales Dashboard
 
-#Overview
+# Overview
 
 The Pizza Sales Dashboard is created using Microsoft Excel. The dashboard visualizes key performance metrics for pizza sales, offering insights into revenue trends, order patterns, and best-selling products.
 
-#Key Features
+# Key Features
 
 Total Revenue: Displays the overall revenue generated.
 
@@ -16,7 +16,7 @@ Total Orders: Indicates the total number of orders processed.
 
 Average Pizzas Per Order: Highlights the average quantity of pizzas per order.
 
-#Visual Components
+# Visual Components
 
 Daily Trend for Total Orders: Bar chart showing order volume from Sunday to Saturday.
 
@@ -32,7 +32,7 @@ Top 5 Best Sellers: Horizontal bar chart listing the top-performing pizzas based
 
 Bottom 5 Best Sellers: Horizontal bar chart identifying the least popular pizzas.
 
-#Key Insights
+# Key Insights
 
 Business Days & Time: Peak orders on Fridays, with high activity between 12-1 PM and 5-7 PM.
 
@@ -44,7 +44,7 @@ Best Sellers: Classic Deluxe and Chicken pizzas.
 
 Worst Seller: The Brie Carre Pizza.
 
-#How to Use
+# How to Use
 
 Open the Excel file containing the dashboard.
 
@@ -52,11 +52,11 @@ Navigate to the "Dashboard" tab to view interactive charts and graphs.
 
 Filter data by date or category (if slicers are available) to analyze specific trends.
 
-#Data Source
+# Data Source
 
 The dashboard is based on historical pizza sales data, including details such as order date, pizza category, size, and sales figures.
 
-#Future Enhancements
+# Future Enhancements
 
 Adding dynamic filters for real-time data segmentation.
 
@@ -64,7 +64,7 @@ Incorporating customer demographics for deeper insights.
 
 Automating data refresh to ensure up-to-date reporting.
 
-#Contact
+# Contact
 
 For questions or suggestions regarding the dashboard, please contact:
 
