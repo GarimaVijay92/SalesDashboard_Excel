@@ -32,6 +32,9 @@ Top 5 Best Sellers: Horizontal bar chart listing the top-performing pizzas based
 
 Bottom 5 Best Sellers: Horizontal bar chart identifying the least popular pizzas.
 
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/9095c9fd-3d7f-44d2-918e-c9f4db6cd4c5" />
+
+
 # Key Insights
 
 Business Days & Time: Peak orders on Fridays, with high activity between 12-1 PM and 5-7 PM.
